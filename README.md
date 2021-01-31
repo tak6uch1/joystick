@@ -1,6 +1,6 @@
 # Joystick Test Script
 
-The joystick.py python3 program dumps joystick's buttons, analog levers, and + leaf keys with using pygame.
+The joystick.py dumps inputs of joystick's buttons, analog levers, and + leaf keys with using pygame.
 
 ## Install required tools for Mac
 
@@ -10,7 +10,7 @@ The joystick.py python3 program dumps joystick's buttons, analog levers, and + l
 
     python3 joystick.py
 
-An execution example is below.
+An execution example is below. The 0 is for no-input, 1 is for pushed, and the decimal velues from -1 to 1 are for analog stick values.
 
     pygame 2.0.1 (SDL 2.0.14, Python 3.9.0)
     Hello from the pygame community. https://www.pygame.org/contribute.html
