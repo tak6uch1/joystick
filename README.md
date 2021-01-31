@@ -10,7 +10,7 @@ The joystick.py dumps inputs of joystick's buttons, analog levers, and + leaf ke
 
     python3 joystick.py
 
-An execution example is below. The 0 is for no-input, 1 is for pushed, and the decimal velues from -1 to 1 are for analog stick values.
+An execution example is below. The 0 is for no-input, 1 is for pushed, and the decimal velues from -1 to 1 are for analog stick's.
 
     pygame 2.0.1 (SDL 2.0.14, Python 3.9.0)
     Hello from the pygame community. https://www.pygame.org/contribute.html
