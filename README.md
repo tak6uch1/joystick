@@ -1,11 +1,17 @@
 # Joystick Test Script
+
 The joystick.py python3 program dumps joystick's buttons, analog levers, and + leaf keys with using pygame.
+
 ## Install required tools for Mac
+
     ./prepare_mac.sh
 
 ## Test Joystick
+
     python3 joystick.py
+
 An execution example is below.
+
     pygame 2.0.1 (SDL 2.0.14, Python 3.9.0)
     Hello from the pygame community. https://www.pygame.org/contribute.html
     Joystick Name: Logicool Cordless RumblePad 2
